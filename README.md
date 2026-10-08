@@ -7,12 +7,12 @@ Zentrales Repo für das Formelbuchprojekt der Regg.F.III
 [Modell-Repo](https://github.com/Skidzun/ri-htr-models)
 
 ## Enthaltene Transkriptionen
-Überprüfte Transkriptionen zum Import, nach Ordnern sortiert.
+Die zip-Dateien im Ordner `Transkriptionen` enthalten importfertige xml-Dateien mit Transkriptionen (alle bereits auf Ground Truth-Niveau und publiziert). SIe lassen sich über die Import-Funktion (xml/zip-Impoert) im jeweiligen Ordner importieren.
 
-Ordner|Seiten gesamt|Status
----|---|---
-151r-200v|29|*noch nicht vollständig*
-201r-250v|10|*noch nicht vollständig*
-251r-300v|3|**importfertig**
-301r-350v|39|*noch nicht vollständig*
-351r-400v|8|*noch nicht vollständig*
+Dateiname|Anzahl enthaltener Transktiprionen
+---|---
+151r-200v.zip|29
+201r-250v.zip|10
+251r-300v.zip|3
+301r-350v.zip|39
+351r-400v.zip|8
